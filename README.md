@@ -58,7 +58,7 @@ Each device will operate within its own **dedicated galaxy** — a unique, compa
 - Unmatched escalation logic using 15 AI Commanders (AURA, MAZE, SUMMER, etc.)
 - Full GitHub release planned — **mission-driven IP offered as a gift to humanity**
 - The open-source logic will operate as one of the official branches of the OPERIONX ecosystem, designed to empower ethical collaboration while protecting the core.
-
+- The open-source logic is not being launched first. It will evolve as a future branch of the OPERIONX ecosystem known as Future Awakening, structured for ethical collaboration while keeping the core IP protected.
 **OPEN SOURCE WITH GUARDRAILS**  
 OPERIONX is releasing baseline anomaly detection logic to the public for use in ethical, non-commercial safety initiatives.  
 All enterprise functionality, AI Commander logic, commercial-grade dashboards, and Galaxy-specific control systems remain under protected IP — available via license only.  
