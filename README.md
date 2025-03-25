@@ -81,13 +81,30 @@ We are raising capital, partners, and alliances to:
 
 ---
 
+**ADDITIONAL NOTES**
+
+- **Public Collaboration Welcome:**  
+  We welcome ethical contributors, researchers, and safety engineers to collaborate on the public logic available via GitHub. Attribution is required. Contributions must align with the original mission of protection and prevention.
+
+- **Licensing Available Upon Request:**  
+  Organizations, institutions, or governments seeking access to advanced anomaly models, Commander logic, or commercial deployment must enter a license agreement. This ensures controlled, ethical use of our enforcement-grade systems.
+
+- **Commercial Inquiries:**  
+  OPERIONX does not permit commercial use, redistribution, or white-labeled deployments of its open-source logic without explicit written consent. Dashboards, APIs, and enterprise interfaces are part of licensed protected infrastructure.
+
+- **Future Galaxies:**  
+  Each device class will evolve into a dedicated OPERIONX Galaxy — self-contained ecosystems that manage anomaly types exclusively with strict access protocols. These will include education protection, transit guardians, retail surveillance, and dormitory defense.
+
+- **This System Is a Shield, Not a Weapon:**  
+  Any attempt to militarize, politicize, or exploit OPERIONX logic for harm, surveillance abuse, or behavioral manipulation will be flagged, blocked, and legally pursued under full IP protection.
+
+---
+
 **CONTACT**  
 Matt Sachdeva  
 Founder, OPERIONX  
 Email: matt.sachdeva@procuremation.com  
 GitHub: (Coming soon)
-
-
 
 
 
