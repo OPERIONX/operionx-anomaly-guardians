@@ -48,6 +48,8 @@ A suite of AI-enabled hardware + software devices deployed as “Galaxies of Pro
 - **AI SCAVENGER™** — Identifies human predators by pattern
 - **CHECKPOINT CHARLIE™** — Gateway alert system for forced entry or kidnapping
 
+Each device will operate within its own **dedicated galaxy** — a unique, compartmentalized command environment that ensures anomaly detection, behavior tracking, and escalation logic is handled exclusively by specialized systems.
+
 ---
 
 **WHY OPERIONX IS UNTOUCHABLE**
@@ -58,7 +60,8 @@ A suite of AI-enabled hardware + software devices deployed as “Galaxies of Pro
 
 **OPEN SOURCE WITH GUARDRAILS**  
 OPERIONX is releasing baseline anomaly detection logic to the public for use in ethical, non-commercial safety initiatives.  
-All enterprise functionality, AI Commander logic, and commercial-grade systems remain under protected IP — available via license only.  
+All enterprise functionality, AI Commander logic, commercial-grade dashboards, and Galaxy-specific control systems remain under protected IP — available via license only.  
+Public use of the logic is restricted from API commercialization, monetized services, dashboard replication, or rebranding without formal approval.  
 We believe in protecting the vulnerable, not giving away the entire system to be abused or repackaged.
 
 ---
@@ -81,8 +84,9 @@ We are raising capital, partners, and alliances to:
 **CONTACT**  
 Matt Sachdeva  
 Founder, OPERIONX  
-Email: matt.sachdeva@procuremation.com
+Email: matt.sachdeva@procuremation.com  
 GitHub: (Coming soon)
+
 
 
 
